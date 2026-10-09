@@ -1,0 +1,6 @@
+{
+  "name": "VIVI QUEENS — Luxury Fashion & Tailoring Atelier",
+  "description": "Premium Nigerian women's fashion house and bespoke tailoring studio in Biogbolo, Yenagoa, Bayelsa State.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
